@@ -1,0 +1,385 @@
+,ID,Region of residence,Age of Subject,Time spent on Online Class,Rating of Online Class experience,Time spent on fitness,Time spent on sleep,Time spent on social media,Change in your weight,Health issue during lockdown
+0,R1,Delhi-NCR,21,2.0,Good,0.0,7.0,3.0,Increased,NO
+1,R2,Delhi-NCR,21,0.0,Excellent,2.0,10.0,3.0,Decreased,NO
+4,R5,Delhi-NCR,21,3.0,Good,1.0,8.0,3.0,Remain Constant,NO
+5,R6,Delhi-NCR,21,0.0,Very poor,0.0,5.0,1.0,Decreased,YES
+8,R9,Delhi-NCR,21,3.0,Very poor,1.0,8.0,2.0,Increased,NO
+10,R11,Delhi-NCR,21,3.0,Good,1.0,8.0,3.0,Remain Constant,NO
+11,R12,Delhi-NCR,21,1.0,Very poor,1.0,7.0,3.0,Increased,YES
+12,R13,Delhi-NCR,21,3.0,Average,0.0,8.0,3.0,Increased,YES
+13,R14,Outside Delhi-NCR,22,1.0,Good,0.0,7.0,0.0,Increased,NO
+15,R16,Delhi-NCR,22,3.0,Average,1.0,6.0,2.0,Increased,NO
+18,R19,Delhi-NCR,21,0.0,Very poor,0.0,7.0,7.0,Remain Constant,NO
+19,R20,Delhi-NCR,22,5.0,Very poor,1.0,8.0,4.0,Increased,NO
+21,R22,Delhi-NCR,21,5.0,Average,1.0,10.0,5.0,Remain Constant,NO
+22,R23,Delhi-NCR,21,4.0,Very poor,0.0,8.0,6.0,Decreased,NO
+23,R24,Delhi-NCR,21,4.0,Average,1.0,7.0,1.0,Decreased,NO
+26,R27,Delhi-NCR,21,4.0,Very poor,0.0,8.0,3.0,Increased,YES
+29,R30,Delhi-NCR,22,4.0,Very poor,1.0,5.0,3.0,Remain Constant,NO
+31,R32,Delhi-NCR,23,4.0,Excellent,1.0,8.0,2.0,Decreased,NO
+32,R33,Delhi-NCR,21,0.0,Very poor,2.0,4.0,2.0,Remain Constant,NO
+33,R34,Delhi-NCR,22,5.0,Very poor,0.0,6.0,2.0,Decreased,YES
+35,R36,Outside Delhi-NCR,21,6.0,Average,1.0,8.0,3.0,Remain Constant,NO
+38,R39,Outside Delhi-NCR,22,1.0,Very poor,0.5,8.0,2.0,Increased,NO
+40,R41,Delhi-NCR,24,4.0,Good,2.0,6.0,4.0,Increased,NO
+41,R42,Outside Delhi-NCR,21,0.0,Very poor,0.0,10.0,8.0,Remain Constant,NO
+43,R44,Delhi-NCR,21,5.0,Very poor,1.0,8.0,1.0,Increased,NO
+45,R46,Delhi-NCR,22,3.0,Very poor,0.0,8.0,1.0,Increased,NO
+48,R49,Delhi-NCR,21,3.0,Very poor,2.0,8.0,2.0,Increased,NO
+52,R53,Delhi-NCR,21,3.0,Average,0.0,5.0,1.0,Increased,NO
+54,R55,Delhi-NCR,21,4.0,Average,1.0,8.0,2.0,Remain Constant,NO
+59,R60,Delhi-NCR,21,0.0,Very poor,0.0,8.0,1.0,Remain Constant,NO
+60,R61,Delhi-NCR,22,6.0,Very poor,0.0,6.0,1.0,Increased,NO
+64,R65,Delhi-NCR,23,2.0,Very poor,1.0,7.0,5.0,Decreased,NO
+71,R72,Delhi-NCR,22,6.0,Very poor,0.0,7.0,2.0,Increased,NO
+80,R81,Delhi-NCR,21,5.0,Average,0.0,8.0,7.0,Increased,YES
+81,R82,Delhi-NCR,21,3.0,Good,1.0,10.0,1.0,Remain Constant,NO
+84,R85,Outside Delhi-NCR,21,1.0,Poor,0.0,10.0,1.0,Decreased,NO
+87,R88,Outside Delhi-NCR,21,4.0,Very poor,1.0,8.0,1.0,Decreased,NO
+90,R91,Outside Delhi-NCR,25,4.0,Very poor,1.0,7.0,1.0,Remain Constant,YES
+97,R98,Delhi-NCR,22,2.0,Average,0.0,12.0,4.0,Increased,NO
+98,R99,Outside Delhi-NCR,21,1.0,Good,2.0,10.0,1.0,Increased,YES
+99,R100,Delhi-NCR,21,1.0,Very poor,1.0,8.0,1.0,Increased,NO
+101,R102,Outside Delhi-NCR,21,3.0,Average,0.0,8.0,7.0,Remain Constant,NO
+102,R103,Outside Delhi-NCR,21,4.0,Very poor,1.0,7.0,1.0,Decreased,YES
+104,R105,Delhi-NCR,21,2.0,Very poor,2.0,8.0,0.5,Increased,NO
+105,R106,Outside Delhi-NCR,23,4.0,Excellent,1.0,8.0,0.3,Increased,NO
+111,R112,Delhi-NCR,21,3.0,Average,0.0,11.0,2.0,Increased,YES
+116,R117,Outside Delhi-NCR,24,4.0,Excellent,1.0,8.0,2.0,Increased,NO
+118,R119,Outside Delhi-NCR,21,4.0,Good,2.0,7.0,2.0,Increased,NO
+121,R122,Outside Delhi-NCR,23,6.0,Average,1.0,6.0,1.0,Remain Constant,NO
+122,R123,Outside Delhi-NCR,21,4.0,Average,1.0,8.0,1.0,Remain Constant,NO
+135,R136,Delhi-NCR,22,0.1,Poor,1.0,12.0,0.3,Increased,NO
+138,R139,Outside Delhi-NCR,22,1.0,Very poor,1.0,7.0,1.0,Remain Constant,NO
+151,R152,Outside Delhi-NCR,21,4.0,Very poor,1.0,8.0,2.0,Increased,NO
+154,R155,Outside Delhi-NCR,21,1.0,Very poor,0.0,6.0,1.0,Decreased,YES
+157,R158,Delhi-NCR,21,5.0,Average,0.0,5.0,1.0,Decreased,NO
+158,R159,Delhi-NCR,21,4.0,Excellent,2.0,6.0,1.0,Remain Constant,NO
+159,R160,Delhi-NCR,21,3.0,Very poor,0.0,7.0,2.0,Increased,YES
+162,R163,Outside Delhi-NCR,23,0.0,Very poor,0.0,10.0,4.0,Increased,NO
+163,R164,Outside Delhi-NCR,21,4.0,Very poor,1.0,8.0,1.0,Remain Constant,YES
+164,R165,Delhi-NCR,22,1.0,Very poor,1.0,7.0,2.0,Increased,YES
+165,R166,Delhi-NCR,23,3.0,Good,0.0,12.0,4.0,Increased,NO
+166,R167,Delhi-NCR,22,4.0,Good,0.5,8.0,2.0,Increased,NO
+167,R168,Outside Delhi-NCR,21,0.0,Very poor,0.0,7.0,10.0,Increased,NO
+173,R174,Outside Delhi-NCR,22,1.0,Average,1.0,7.0,1.0,Remain Constant,NO
+175,R176,Outside Delhi-NCR,21,0.0,Good,1.0,8.0,2.0,Decreased,YES
+177,R178,Outside Delhi-NCR,22,0.0,Average,1.0,9.0,0.0,Decreased,NO
+178,R179,Delhi-NCR,22,6.0,Good,1.0,8.0,4.0,Remain Constant,NO
+179,R180,Outside Delhi-NCR,21,1.0,Average,2.0,7.0,2.0,Increased,NO
+181,R182,Outside Delhi-NCR,21,3.0,Average,3.0,6.0,2.0,Remain Constant,NO
+183,R184,Outside Delhi-NCR,22,1.0,Very poor,0.0,7.0,1.0,Remain Constant,NO
+186,R187,Delhi-NCR,22,1.0,Average,0.5,11.0,1.0,Remain Constant,YES
+187,R188,Outside Delhi-NCR,22,2.0,Average,0.0,8.0,3.0,Increased,NO
+189,R190,Outside Delhi-NCR,21,1.0,Average,1.0,6.0,2.0,Decreased,NO
+191,R192,Outside Delhi-NCR,21,3.0,Good,0.5,8.0,4.0,Remain Constant,NO
+192,R193,Delhi-NCR,21,3.0,Very poor,3.0,7.0,3.0,Decreased,YES
+194,R195,Outside Delhi-NCR,22,3.0,Very poor,5.0,8.0,10.0,Remain Constant,NO
+196,R197,Delhi-NCR,21,4.0,Good,1.0,7.0,2.0,Remain Constant,NO
+199,R200,Outside Delhi-NCR,25,2.0,Very poor,1.0,8.0,4.0,Increased,NO
+201,R202,Delhi-NCR,26,5.0,Average,1.0,8.0,1.0,Remain Constant,NO
+203,R204,Delhi-NCR,24,7.0,Very poor,2.0,7.0,2.0,Remain Constant,NO
+204,R205,Delhi-NCR,21,0.0,Very poor,2.0,12.0,6.0,Increased,NO
+220,R222,Outside Delhi-NCR,22,4.0,Average,1.0,8.0,3.0,Increased,NO
+222,R224,Delhi-NCR,23,1.0,Very poor,2.0,8.0,2.0,Decreased,NO
+223,R225,Outside Delhi-NCR,22,0.0,Very poor,0.0,10.0,8.0,Increased,YES
+224,R226,Delhi-NCR,22,1.5,Average,0.0,9.0,6.0,Increased,NO
+227,R229,Outside Delhi-NCR,23,1.0,Very poor,0.0,8.0,5.0,Increased,NO
+231,R233,Delhi-NCR,22,4.0,Average,2.0,8.0,2.0,Increased,NO
+234,R236,Delhi-NCR,22,5.0,Good,1.0,6.0,1.0,Remain Constant,YES
+237,R239,Outside Delhi-NCR,30,3.0,Average,0.5,4.0,1.0,Remain Constant,NO
+247,R250,Delhi-NCR,21,3.0,Very poor,0.0,7.0,2.0,Remain Constant,NO
+249,R252,Delhi-NCR,21,5.0,Average,2.0,6.0,5.0,Increased,NO
+261,R264,Outside Delhi-NCR,21,3.0,Good,1.0,6.0,0.5,Increased,YES
+265,R268,Delhi-NCR,21,2.0,Poor,1.0,5.0,3.0,Remain Constant,NO
+267,R270,Delhi-NCR,21,0.0,Average,0.0,7.0,3.0,Remain Constant,NO
+269,R272,Delhi-NCR,21,4.0,Average,1.0,8.0,3.0,Remain Constant,NO
+278,R282,Delhi-NCR,21,0.0,Very poor,0.0,8.0,3.0,Decreased,NO
+280,R285,Delhi-NCR,25,5.0,Average,0.0,8.0,1.0,Remain Constant,NO
+288,R293,Delhi-NCR,22,3.0,Average,0.0,8.0,2.0,Increased,NO
+293,R298,Delhi-NCR,21,0.0,Very poor,0.0,6.0,4.0,Increased,NO
+296,R302,Outside Delhi-NCR,25,1.0,Average,1.0,7.0,3.0,Increased,NO
+298,R304,Outside Delhi-NCR,21,0.0,Very poor,0.0,10.0,3.0,Remain Constant,NO
+300,R306,Delhi-NCR,23,5.0,Average,1.0,8.0,1.0,Remain Constant,NO
+301,R307,Outside Delhi-NCR,22,2.0,Average,1.0,8.0,2.0,Remain Constant,NO
+302,R308,Outside Delhi-NCR,22,4.0,Average,1.0,8.0,4.0,Increased,NO
+304,R310,Delhi-NCR,21,3.0,Average,2.0,6.5,2.0,Increased,NO
+305,R311,Outside Delhi-NCR,22,1.0,Average,1.0,8.0,1.0,Decreased,YES
+306,R312,Outside Delhi-NCR,24,3.0,Very poor,0.0,6.0,3.0,Remain Constant,NO
+310,R316,Outside Delhi-NCR,21,5.0,Very poor,2.0,10.0,6.0,Increased,YES
+313,R320,Delhi-NCR,29,8.0,Good,1.0,8.0,0.5,Remain Constant,NO
+314,R321,Outside Delhi-NCR,26,1.0,Good,0.0,6.0,6.0,Remain Constant,NO
+315,R322,Delhi-NCR,21,5.0,Very poor,1.0,12.0,2.0,Increased,NO
+318,R325,Delhi-NCR,21,2.0,Average,1.0,10.0,2.0,Remain Constant,NO
+320,R327,Delhi-NCR,26,0.0,Very poor,1.0,7.0,1.0,Decreased,NO
+323,R330,Delhi-NCR,21,0.0,Average,0.0,10.0,5.0,Increased,NO
+324,R331,Outside Delhi-NCR,21,5.0,Average,0.0,8.0,0.5,Increased,NO
+326,R333,Delhi-NCR,21,0.0,Very poor,1.0,7.0,1.0,Remain Constant,YES
+327,R334,Outside Delhi-NCR,21,2.0,Average,1.0,7.0,1.0,Remain Constant,NO
+329,R336,Outside Delhi-NCR,21,2.0,Average,0.0,8.0,2.0,Remain Constant,YES
+331,R338,Delhi-NCR,22,1.0,Average,0.0,11.0,3.0,Increased,YES
+341,R348,Outside Delhi-NCR,21,2.0,Very poor,0.0,9.0,2.0,Remain Constant,NO
+346,R353,Delhi-NCR,24,0.5,Average,0.0,8.0,1.0,Remain Constant,NO
+347,R354,Outside Delhi-NCR,21,3.0,Average,1.0,8.0,2.0,Increased,NO
+357,R364,Delhi-NCR,23,0.0,Average,0.0,7.0,3.0,Remain Constant,NO
+358,R365,Delhi-NCR,21,6.0,Very poor,1.0,7.0,4.0,Increased,NO
+360,R367,Delhi-NCR,23,5.0,Excellent,1.0,9.0,2.0,Decreased,NO
+362,R369,Delhi-NCR,21,3.0,Average,1.0,8.0,3.0,Increased,YES
+364,R371,Delhi-NCR,23,3.0,Good,0.0,7.0,2.0,Remain Constant,NO
+373,R380,Delhi-NCR,21,3.0,Average,0.0,8.0,2.0,Decreased,NO
+381,R388,Delhi-NCR,22,0.0,Average,0.0,9.0,2.0,Remain Constant,NO
+383,R390,Outside Delhi-NCR,21,4.0,Very poor,1.0,6.0,2.0,Remain Constant,NO
+384,R391,Delhi-NCR,23,3.0,Good,0.0,6.0,2.0,Remain Constant,NO
+404,R411,Outside Delhi-NCR,27,0.0,Good,0.0,10.0,6.0,Decreased,NO
+408,R415,Delhi-NCR,27,3.0,Excellent,2.0,7.0,1.0,Decreased,YES
+417,R424,Outside Delhi-NCR,24,0.0,Excellent,1.0,8.0,3.0,Decreased,NO
+419,R426,Delhi-NCR,22,1.0,Very poor,0.0,7.0,3.0,Remain Constant,NO
+422,R429,Outside Delhi-NCR,21,0.0,Very poor,0.0,6.0,6.0,Remain Constant,YES
+425,R432,Outside Delhi-NCR,28,4.0,Good,1.0,12.0,2.0,Decreased,NO
+426,R433,Delhi-NCR,21,2.0,Very poor,1.0,12.0,5.0,Remain Constant,NO
+427,R434,Outside Delhi-NCR,21,2.0,Average,1.0,8.0,2.0,Remain Constant,YES
+439,R446,Delhi-NCR,21,0.0,Very poor,1.0,7.0,2.0,Increased,NO
+442,R449,Delhi-NCR,22,3.0,Average,0.0,7.0,3.0,Increased,NO
+450,R457,Outside Delhi-NCR,21,0.0,Poor,0.0,7.0,2.0,Remain Constant,NO
+451,R458,Delhi-NCR,23,6.0,Average,1.0,9.0,1.0,Remain Constant,NO
+452,R459,Outside Delhi-NCR,21,2.0,Average,1.0,8.0,8.0,Increased,NO
+458,R465,Outside Delhi-NCR,21,2.0,Average,1.0,10.0,8.0,Increased,NO
+460,R467,Outside Delhi-NCR,22,1.0,Average,3.0,8.0,3.0,Increased,NO
+461,R468,Delhi-NCR,21,1.0,Very poor,0.0,8.0,2.0,Remain Constant,NO
+462,R469,Outside Delhi-NCR,21,2.0,Good,0.0,6.5,0.5,Increased,NO
+463,R470,Delhi-NCR,21,2.0,Very poor,0.0,13.0,6.0,Decreased,YES
+470,R477,Outside Delhi-NCR,21,2.0,Average,1.0,7.0,3.0,Remain Constant,NO
+471,R478,Delhi-NCR,23,4.0,Very poor,1.0,7.0,1.0,Decreased,NO
+477,R484,Delhi-NCR,21,4.0,Very poor,3.0,11.0,10.0,Decreased,NO
+479,R486,Delhi-NCR,21,6.0,Excellent,1.0,6.0,1.0,Decreased,NO
+482,R489,Outside Delhi-NCR,22,2.0,Average,0.0,8.0,1.0,Remain Constant,YES
+483,R490,Delhi-NCR,21,3.0,Average,3.0,6.0,1.0,Remain Constant,NO
+484,R491,Delhi-NCR,24,2.0,Poor,0.0,6.0,3.0,Decreased,NO
+487,R494,Outside Delhi-NCR,24,5.0,Average,0.0,6.0,3.0,Increased,NO
+488,R495,Delhi-NCR,21,5.0,Average,0.0,7.0,2.0,Increased,NO
+490,R497,Outside Delhi-NCR,22,5.0,Very poor,1.0,8.0,4.0,Remain Constant,NO
+494,R501,Outside Delhi-NCR,22,0.5,Very poor,1.0,8.0,3.0,Increased,NO
+495,R502,Outside Delhi-NCR,21,4.0,Average,0.0,10.0,2.0,Increased,NO
+499,R506,Outside Delhi-NCR,21,4.0,Very poor,0.0,6.0,1.0,Increased,NO
+501,R508,Delhi-NCR,22,1.0,Very poor,1.0,6.0,2.0,Increased,NO
+505,R512,Outside Delhi-NCR,21,0.0,Average,1.0,7.0,2.0,Increased,NO
+520,R527,Outside Delhi-NCR,21,1.0,Average,2.0,8.0,2.0,Remain Constant,YES
+526,R533,Delhi-NCR,26,2.0,Very poor,1.0,8.0,4.0,Decreased,NO
+528,R535,Outside Delhi-NCR,22,3.0,Average,2.0,8.0,4.0,Remain Constant,NO
+530,R537,Outside Delhi-NCR,21,4.0,Very poor,2.0,8.0,4.0,Decreased,NO
+536,R543,Delhi-NCR,22,3.0,Average,1.0,6.0,3.0,Remain Constant,NO
+537,R544,Outside Delhi-NCR,21,1.0,Poor,1.0,8.0,4.0,Remain Constant,NO
+542,R549,Outside Delhi-NCR,24,2.0,Average,0.0,6.0,3.0,Decreased,NO
+544,R551,Outside Delhi-NCR,21,0.0,Poor,0.0,7.0,2.0,Remain Constant,YES
+548,R555,Delhi-NCR,21,6.0,Average,1.0,7.0,1.5,Remain Constant,NO
+550,R557,Delhi-NCR,22,3.0,Very poor,1.0,9.0,1.0,Remain Constant,YES
+552,R559,Outside Delhi-NCR,26,0.5,Very poor,0.0,6.0,1.0,Decreased,YES
+553,R560,Delhi-NCR,21,0.0,Very poor,0.0,10.0,6.0,Remain Constant,NO
+555,R562,Delhi-NCR,21,3.0,Average,2.0,8.0,2.0,Increased,NO
+556,R563,Outside Delhi-NCR,21,3.0,Very poor,1.0,8.0,2.0,Increased,NO
+561,R568,Delhi-NCR,21,4.0,Average,1.0,8.0,3.0,Increased,NO
+563,R570,Delhi-NCR,21,8.0,Good,1.0,7.0,1.0,Remain Constant,NO
+572,R579,Delhi-NCR,23,4.0,Very poor,1.0,8.0,2.0,Increased,NO
+574,R581,Delhi-NCR,22,4.0,Very poor,0.0,9.0,1.0,Remain Constant,NO
+578,R585,Delhi-NCR,21,3.0,Excellent,0.0,11.0,3.0,Remain Constant,NO
+581,R588,Delhi-NCR,22,0.0,Very poor,1.0,6.0,0.5,Decreased,NO
+583,R590,Delhi-NCR,21,2.0,Very poor,1.0,8.0,1.0,Increased,NO
+586,R593,Outside Delhi-NCR,24,2.0,Average,1.0,7.0,4.0,Remain Constant,NO
+589,R596,Delhi-NCR,25,2.0,Good,0.0,7.0,2.0,Remain Constant,NO
+590,R597,Delhi-NCR,24,6.0,Good,0.0,9.0,2.0,Decreased,YES
+599,R606,Delhi-NCR,21,1.0,Very poor,0.0,8.0,2.0,Decreased,YES
+600,R608,Delhi-NCR,21,6.0,Very poor,0.0,8.0,4.0,Increased,YES
+601,R609,Delhi-NCR,21,4.0,Average,0.0,8.0,2.0,Decreased,NO
+602,R610,Delhi-NCR,22,1.0,Very poor,2.0,7.0,1.0,Remain Constant,NO
+607,R615,Delhi-NCR,21,2.0,Average,0.0,7.0,5.0,Decreased,NO
+608,R616,Delhi-NCR,22,2.0,Very poor,0.0,6.0,5.0,Increased,NO
+610,R618,Delhi-NCR,25,6.0,Good,1.0,7.0,3.0,Increased,NO
+612,R620,Outside Delhi-NCR,25,1.0,Average,0.5,9.0,2.0,Increased,NO
+613,R621,Delhi-NCR,22,1.0,Very poor,0.0,6.0,2.0,Increased,YES
+614,R622,Outside Delhi-NCR,21,0.0,Very poor,0.0,8.0,4.0,Remain Constant,YES
+616,R624,Outside Delhi-NCR,21,2.0,Good,0.0,12.0,3.0,Remain Constant,NO
+620,R628,Delhi-NCR,22,0.0,Very poor,0.0,8.0,5.0,Remain Constant,NO
+621,R629,Outside Delhi-NCR,21,4.0,Average,1.0,6.0,1.0,Remain Constant,YES
+624,R632,Delhi-NCR,30,4.0,Average,1.0,7.0,1.0,Remain Constant,NO
+625,R633,Delhi-NCR,21,2.0,Average,1.0,9.0,2.0,Remain Constant,NO
+626,R634,Outside Delhi-NCR,28,3.0,Good,1.0,9.0,2.0,Remain Constant,NO
+627,R635,Delhi-NCR,21,4.0,Very poor,0.0,6.0,2.0,Remain Constant,NO
+632,R640,Delhi-NCR,25,1.0,Average,0.0,10.0,1.0,Increased,NO
+637,R645,Outside Delhi-NCR,28,2.0,Excellent,1.0,7.0,1.0,Decreased,NO
+641,R649,Delhi-NCR,30,4.0,Excellent,0.0,5.0,6.0,Remain Constant,NO
+643,R651,Delhi-NCR,21,0.0,Very poor,0.0,10.0,2.0,Remain Constant,NO
+652,R660,Delhi-NCR,21,6.0,Very poor,1.0,7.0,2.0,Increased,NO
+657,R665,Outside Delhi-NCR,22,6.0,Average,1.0,11.0,6.0,Increased,YES
+658,R666,Delhi-NCR,22,3.0,Very poor,0.0,9.0,4.0,Increased,NO
+659,R667,Delhi-NCR,21,1.0,Average,2.0,8.0,2.0,Decreased,NO
+660,R668,Delhi-NCR,30,2.0,Very poor,1.0,5.0,1.0,Remain Constant,NO
+661,R669,Delhi-NCR,21,2.0,Very poor,0.0,6.0,3.0,Remain Constant,NO
+662,R670,Delhi-NCR,22,3.0,Average,1.0,8.0,3.0,Decreased,NO
+663,R671,Outside Delhi-NCR,21,4.0,Good,1.0,8.0,3.0,Increased,NO
+664,R672,Outside Delhi-NCR,21,5.0,Very poor,0.5,9.0,1.5,Remain Constant,NO
+666,R674,Delhi-NCR,22,1.0,Very poor,1.0,9.0,1.5,Remain Constant,YES
+668,R676,Delhi-NCR,21,3.0,Excellent,0.0,7.0,0.5,Remain Constant,NO
+669,R678,Outside Delhi-NCR,21,3.0,Average,1.0,7.0,2.0,Decreased,NO
+670,R679,Outside Delhi-NCR,21,0.0,Very poor,1.0,8.0,1.0,Remain Constant,NO
+671,R680,Outside Delhi-NCR,21,5.0,Good,2.0,8.0,1.0,Decreased,YES
+672,R681,Delhi-NCR,22,0.0,Very poor,1.0,10.0,1.0,Increased,NO
+677,R686,Delhi-NCR,21,3.0,Average,1.0,7.0,1.0,Decreased,NO
+679,R688,Outside Delhi-NCR,22,3.0,Very poor,0.0,7.0,4.0,Increased,NO
+680,R689,Delhi-NCR,21,7.0,Very poor,0.0,8.0,3.0,Remain Constant,NO
+683,R692,Delhi-NCR,21,4.0,Good,1.0,7.0,3.0,Remain Constant,NO
+684,R693,Delhi-NCR,23,3.0,Very poor,1.0,7.0,1.5,Increased,YES
+685,R694,Delhi-NCR,22,0.0,Very poor,0.0,14.0,2.0,Increased,NO
+688,R697,Delhi-NCR,21,3.0,Average,0.0,9.0,2.0,Increased,NO
+690,R699,Delhi-NCR,22,0.0,Average,1.0,6.0,1.0,Remain Constant,NO
+693,R702,Delhi-NCR,22,2.0,Good,1.0,6.0,1.0,Increased,NO
+698,R707,Delhi-NCR,23,2.0,Average,1.0,12.0,1.0,Remain Constant,YES
+704,R713,Delhi-NCR,22,2.0,Good,1.0,7.0,1.0,Increased,NO
+705,R714,Delhi-NCR,21,4.0,Average,0.0,7.0,2.0,Increased,NO
+710,R719,Delhi-NCR,21,3.0,Very poor,1.0,8.0,3.0,Increased,NO
+713,R722,Delhi-NCR,21,3.0,Very poor,0.0,9.0,4.0,Increased,NO
+721,R730,Delhi-NCR,23,0.0,Average,1.0,9.0,3.0,Increased,NO
+722,R731,Outside Delhi-NCR,29,2.0,Average,1.0,8.0,0.0,Remain Constant,NO
+724,R733,Outside Delhi-NCR,22,1.0,Very poor,0.25,10.0,1.0,Remain Constant,NO
+729,R738,Outside Delhi-NCR,21,1.0,Very poor,1.0,9.0,1.0,Remain Constant,NO
+730,R739,Outside Delhi-NCR,21,4.0,Average,0.0,8.0,2.0,Decreased,NO
+734,R743,Outside Delhi-NCR,28,3.0,Good,0.0,10.0,1.0,Increased,NO
+736,R745,Delhi-NCR,21,2.0,Average,1.0,8.0,1.0,Remain Constant,NO
+737,R746,Delhi-NCR,23,0.0,Good,0.0,10.0,4.0,Increased,NO
+739,R748,Delhi-NCR,22,4.0,Good,1.0,12.0,2.0,Remain Constant,NO
+743,R752,Outside Delhi-NCR,23,3.0,Good,1.0,6.0,1.0,Remain Constant,NO
+744,R753,Outside Delhi-NCR,21,2.0,Very poor,1.0,8.0,4.0,Increased,NO
+746,R755,Outside Delhi-NCR,23,3.0,Good,0.0,6.0,1.0,Remain Constant,NO
+748,R757,Outside Delhi-NCR,22,2.0,Good,1.0,8.0,2.0,Increased,NO
+750,R759,Outside Delhi-NCR,21,5.0,Very poor,1.0,7.0,1.0,Remain Constant,NO
+752,R761,Outside Delhi-NCR,21,1.0,Very poor,1.0,11.0,2.0,Increased,NO
+753,R762,Delhi-NCR,22,5.0,Good,0.0,7.0,2.0,Remain Constant,NO
+755,R764,Delhi-NCR,21,1.0,Good,2.0,7.0,2.0,Remain Constant,NO
+756,R765,Outside Delhi-NCR,22,2.0,Average,0.3,8.0,1.0,Increased,YES
+759,R768,Delhi-NCR,21,0.5,Very poor,1.0,9.0,1.0,Increased,NO
+760,R769,Delhi-NCR,21,1.0,Very poor,0.0,9.0,3.0,Remain Constant,NO
+762,R771,Outside Delhi-NCR,21,2.0,Very poor,0.0,8.0,1.0,Increased,YES
+763,R772,Outside Delhi-NCR,23,5.5,Excellent,1.0,8.0,1.0,Decreased,NO
+764,R773,Delhi-NCR,21,0.0,Very poor,0.0,9.0,4.0,Increased,NO
+770,R779,Delhi-NCR,23,3.0,Average,1.0,6.0,3.0,Remain Constant,NO
+771,R780,Outside Delhi-NCR,21,7.0,Average,0.0,6.0,1.0,Increased,NO
+775,R784,Outside Delhi-NCR,30,4.0,Average,1.0,7.8,4.0,Increased,NO
+776,R785,Outside Delhi-NCR,21,5.0,Average,1.0,8.0,2.0,Remain Constant,NO
+778,R787,Delhi-NCR,22,3.0,Average,0.0,8.0,2.0,Remain Constant,YES
+780,R789,Outside Delhi-NCR,24,5.0,Excellent,3.0,8.0,2.0,Remain Constant,NO
+782,R791,Outside Delhi-NCR,22,1.0,Very poor,1.0,5.0,10.0,Decreased,NO
+790,R799,Outside Delhi-NCR,30,1.0,Good,1.0,7.0,1.0,Remain Constant,NO
+791,R800,Delhi-NCR,23,5.0,Excellent,1.0,8.0,1.0,Remain Constant,YES
+795,R804,Delhi-NCR,21,3.0,Very poor,0.0,7.0,1.0,Increased,NO
+797,R806,Delhi-NCR,24,0.0,Average,1.0,8.0,1.0,Remain Constant,NO
+800,R809,Outside Delhi-NCR,23,3.0,Poor,0.0,9.0,3.0,Increased,NO
+801,R810,Delhi-NCR,26,3.0,Very poor,1.0,8.0,1.0,Increased,NO
+803,R812,Outside Delhi-NCR,22,0.0,Very poor,1.0,8.0,0.0,Remain Constant,YES
+806,R815,Outside Delhi-NCR,22,0.0,Average,0.0,10.0,5.0,Remain Constant,NO
+808,R817,Outside Delhi-NCR,23,1.0,Poor,1.0,8.0,2.0,Increased,YES
+809,R818,Outside Delhi-NCR,21,3.0,Very poor,2.0,7.0,3.0,Remain Constant,NO
+810,R819,Outside Delhi-NCR,21,5.0,Average,0.0,5.0,2.0,Remain Constant,NO
+813,R822,Outside Delhi-NCR,22,3.0,Good,1.0,8.0,2.0,Remain Constant,NO
+814,R823,Outside Delhi-NCR,21,2.0,Very poor,2.0,8.0,4.0,Remain Constant,NO
+816,R825,Outside Delhi-NCR,22,2.0,Average,1.0,9.0,2.0,Decreased,NO
+817,R826,Outside Delhi-NCR,21,0.0,Very poor,3.0,9.0,1.0,Decreased,YES
+818,R827,Outside Delhi-NCR,22,3.0,Very poor,1.0,8.0,3.0,Remain Constant,NO
+819,R828,Outside Delhi-NCR,21,2.0,Good,2.0,7.0,0.5,Remain Constant,NO
+820,R829,Outside Delhi-NCR,21,3.0,Very poor,0.0,6.0,1.0,Decreased,YES
+821,R830,Delhi-NCR,21,2.0,Very poor,0.0,8.0,2.0,Increased,YES
+824,R833,Delhi-NCR,21,3.0,Very poor,0.0,7.0,1.0,Remain Constant,NO
+826,R835,Outside Delhi-NCR,21,4.0,Average,0.0,6.0,4.0,Remain Constant,NO
+827,R836,Delhi-NCR,21,3.0,Very poor,1.0,8.0,1.0,Remain Constant,NO
+828,R837,Delhi-NCR,21,5.0,Average,0.0,5.0,2.0,Increased,YES
+831,R840,Delhi-NCR,22,4.0,Good,1.0,8.0,5.0,Remain Constant,NO
+833,R842,Delhi-NCR,22,3.0,Good,0.0,12.0,1.0,Remain Constant,NO
+836,R845,Delhi-NCR,23,4.0,Good,0.5,7.0,3.0,Remain Constant,NO
+838,R847,Outside Delhi-NCR,24,2.0,Average,0.5,9.0,2.0,Remain Constant,NO
+840,R849,Delhi-NCR,22,2.0,Excellent,1.0,8.0,2.0,Decreased,NO
+842,R851,Delhi-NCR,21,4.0,Very poor,0.0,10.0,2.0,Increased,NO
+844,R853,Delhi-NCR,27,3.0,Good,1.0,8.0,2.0,Decreased,YES
+846,R855,Outside Delhi-NCR,21,2.0,Very poor,1.0,9.0,5.0,Increased,NO
+849,R858,Delhi-NCR,22,5.0,Average,1.0,6.0,2.0,Increased,NO
+850,R859,Delhi-NCR,21,3.0,Very poor,1.0,8.0,0.75,Remain Constant,NO
+851,R860,Outside Delhi-NCR,21,3.0,Very poor,0.0,8.0,1.0,Increased,NO
+852,R861,Delhi-NCR,21,4.0,Very poor,0.0,9.0,2.0,Remain Constant,NO
+853,R862,Delhi-NCR,21,4.0,Very poor,1.0,7.0,2.0,Increased,NO
+854,R863,Delhi-NCR,21,4.0,Average,2.0,12.0,2.0,Decreased,NO
+858,R867,Delhi-NCR,21,3.0,Average,2.0,7.0,1.0,Remain Constant,NO
+861,R870,Delhi-NCR,22,5.0,Average,0.0,8.0,3.0,Remain Constant,NO
+867,R876,Outside Delhi-NCR,21,3.0,Very poor,1.0,5.0,2.0,Remain Constant,NO
+872,R881,Outside Delhi-NCR,21,5.0,Average,0.0,9.0,1.0,Remain Constant,NO
+877,R886,Delhi-NCR,22,6.0,Very poor,0.0,8.0,2.0,Increased,NO
+878,R887,Delhi-NCR,22,5.0,Average,1.0,8.0,2.0,Decreased,NO
+879,R888,Delhi-NCR,28,3.0,Good,1.0,8.0,4.0,Remain Constant,NO
+882,R891,Outside Delhi-NCR,21,2.0,Very poor,0.0,8.0,1.0,Increased,YES
+886,R895,Outside Delhi-NCR,26,1.0,Average,1.0,8.0,4.0,Decreased,YES
+887,R896,Delhi-NCR,21,3.0,Very poor,0.0,8.0,6.0,Increased,NO
+891,R900,Outside Delhi-NCR,21,7.0,Good,0.0,10.0,3.0,Remain Constant,NO
+892,R901,Outside Delhi-NCR,23,4.0,Very poor,0.0,7.0,8.0,Decreased,NO
+894,R903,Delhi-NCR,27,1.0,Average,0.0,8.0,3.0,Increased,NO
+896,R905,Outside Delhi-NCR,21,5.0,Average,1.0,11.0,3.0,Remain Constant,NO
+897,R906,Outside Delhi-NCR,21,2.0,Very poor,0.0,8.0,4.0,Remain Constant,NO
+898,R907,Outside Delhi-NCR,24,0.0,Very poor,0.0,5.0,4.0,Decreased,YES
+899,R908,Outside Delhi-NCR,23,0.0,Good,0.0,8.0,3.0,Remain Constant,NO
+901,R910,Outside Delhi-NCR,29,10.0,Good,1.0,6.0,7.0,Remain Constant,NO
+903,R912,Delhi-NCR,21,1.0,Good,0.0,7.0,2.0,Remain Constant,NO
+904,R913,Outside Delhi-NCR,21,6.0,Average,1.0,8.0,5.0,Increased,NO
+910,R919,Outside Delhi-NCR,23,2.0,Average,2.0,7.0,4.0,Remain Constant,NO
+911,R920,Outside Delhi-NCR,21,5.0,Average,0.0,10.0,2.0,Increased,NO
+915,R924,Outside Delhi-NCR,22,4.0,Average,1.0,7.0,1.0,Decreased,NO
+917,R926,Delhi-NCR,23,2.0,Very poor,1.0,6.0,3.0,Increased,NO
+919,R928,Outside Delhi-NCR,21,1.0,Good,1.0,10.0,3.0,Increased,NO
+923,R932,Outside Delhi-NCR,21,3.0,Average,1.0,8.0,6.0,Remain Constant,NO
+926,R935,Delhi-NCR,22,1.0,Average,0.0,9.0,3.0,Increased,NO
+927,R936,Outside Delhi-NCR,26,9.0,Very poor,0.0,5.0,3.0,Increased,NO
+928,R937,Outside Delhi-NCR,21,2.0,Very poor,0.0,7.0,1.0,Remain Constant,YES
+929,R938,Delhi-NCR,22,1.0,Very poor,0.0,6.0,2.0,Increased,YES
+930,R939,Outside Delhi-NCR,21,2.0,Average,1.0,8.0,6.0,Remain Constant,NO
+935,R944,Outside Delhi-NCR,22,2.0,Very poor,0.0,8.0,4.0,Remain Constant,NO
+936,R945,Outside Delhi-NCR,22,4.0,Average,0.0,8.0,5.0,Increased,NO
+937,R946,Delhi-NCR,23,2.0,Good,0.0,7.0,4.0,Increased,NO
+938,R947,Delhi-NCR,21,4.0,Good,1.0,7.0,3.0,Remain Constant,YES
+940,R949,Delhi-NCR,24,0.0,Average,1.0,8.0,1.0,Increased,NO
+942,R951,Delhi-NCR,23,10.0,Average,0.0,8.0,8.0,Decreased,NO
+943,R952,Delhi-NCR,21,6.0,Average,1.0,7.0,3.0,Decreased,NO
+946,R955,Delhi-NCR,23,2.0,Average,1.0,7.0,2.0,Increased,NO
+951,R960,Outside Delhi-NCR,23,2.0,Average,0.3,8.0,1.0,Decreased,NO
+954,R963,Delhi-NCR,21,4.0,Average,0.0,6.0,1.0,Decreased,YES
+959,R968,Outside Delhi-NCR,22,0.0,Good,1.0,7.0,3.0,Increased,NO
+961,R970,Delhi-NCR,21,8.0,Very poor,1.0,9.0,2.0,Remain Constant,YES
+962,R971,Delhi-NCR,26,0.0,Very poor,0.0,12.0,2.0,Remain Constant,YES
+963,R972,Outside Delhi-NCR,23,2.0,Very poor,1.0,7.5,1.0,Remain Constant,NO
+965,R974,Delhi-NCR,21,5.0,Average,1.0,8.0,4.0,Remain Constant,YES
+973,R982,Outside Delhi-NCR,27,4.0,Average,0.0,7.0,8.0,Increased,NO
+984,R993,Delhi-NCR,26,1.0,Average,0.0,8.0,3.0,Increased,NO
+988,R997,Outside Delhi-NCR,21,2.0,Average,0.0,12.0,3.0,Increased,NO
+990,R999,Outside Delhi-NCR,23,2.0,Average,2.0,7.0,5.0,Remain Constant,NO
+991,R1000,Outside Delhi-NCR,22,4.0,Good,0.0,9.0,3.0,Increased,NO
+1000,R1010,Outside Delhi-NCR,26,4.0,Very poor,0.0,7.0,2.0,Increased,NO
+1002,R1012,Outside Delhi-NCR,23,4.0,Good,1.0,7.0,3.0,Remain Constant,YES
+1003,R1013,Delhi-NCR,26,4.0,Very poor,1.0,7.0,2.0,Remain Constant,NO
+1005,R1015,Outside Delhi-NCR,22,0.0,Good,1.0,9.0,2.0,Remain Constant,NO
+1006,R1016,Outside Delhi-NCR,23,3.0,Average,1.0,8.0,3.0,Remain Constant,NO
+1008,R1018,Outside Delhi-NCR,29,5.0,Average,1.0,8.0,2.0,Remain Constant,NO
+1009,R1019,Outside Delhi-NCR,28,5.0,Good,1.0,10.0,2.0,Remain Constant,NO
+1011,R1021,Outside Delhi-NCR,21,0.0,Poor,2.0,7.0,2.0,Decreased,NO
+1012,R1022,Outside Delhi-NCR,24,1.0,Good,2.0,8.0,2.0,Remain Constant,NO
+1013,R1023,Delhi-NCR,25,0.0,Good,1.0,8.0,2.0,Remain Constant,YES
+1016,R1026,Delhi-NCR,27,0.0,Good,0.0,8.0,2.0,Remain Constant,NO
+1018,R1028,Delhi-NCR,22,5.0,Very poor,1.0,8.0,1.0,Decreased,YES
+1022,R1032,Delhi-NCR,24,2.0,Good,1.0,9.0,5.0,Increased,NO
+1023,R1033,Outside Delhi-NCR,25,0.0,Very poor,0.0,7.0,5.0,Remain Constant,NO
+1025,R1035,Delhi-NCR,22,2.0,Very poor,0.0,9.0,3.0,Decreased,YES
+1026,R1036,Delhi-NCR,23,4.0,Average,1.0,8.0,2.0,Remain Constant,NO
+1027,R1037,Outside Delhi-NCR,24,2.0,Very poor,0.0,12.0,4.0,Remain Constant,NO
+1033,R1044,Outside Delhi-NCR,21,6.0,Good,1.0,8.0,2.0,Remain Constant,NO
+1036,R1047,Outside Delhi-NCR,21,4.0,Excellent,0.0,8.0,0.5,Increased,YES
+1037,R1048,Delhi-NCR,22,2.0,Average,1.0,8.0,3.0,Remain Constant,NO
+1038,R1049,Delhi-NCR,22,2.0,Very poor,1.0,10.0,4.0,Remain Constant,NO
+1039,R1050,Delhi-NCR,21,0.0,Poor,0.0,7.0,0.0,Increased,NO
+1047,R1058,Outside Delhi-NCR,23,2.0,Good,1.0,5.0,2.0,Decreased,NO
+1050,R1061,Delhi-NCR,24,2.0,Average,0.0,6.0,3.0,Increased,NO
+1062,R1073,Outside Delhi-NCR,30,2.0,Very poor,1.0,8.0,1.0,Increased,NO
+1092,R1104,Delhi-NCR,25,5.0,Average,3.0,6.0,5.0,Decreased,NO
+1098,R1110,Delhi-NCR,24,6.0,Average,0.0,7.0,2.0,Decreased,NO
+1144,R1156,Outside Delhi-NCR,22,5.0,Average,0.0,8.0,3.0,Increased,NO
